@@ -2,7 +2,7 @@
 
   Welcome to my GitHub profile! I'm a passionate data enthusiast and aspiring data analyst with a strong engineering background. Here, you'll find my projects showcasing expertise in data analysis, visualization, and problem-solving. I believe in collaboration and continuous learning. Feel free to explore my work and reach out for potential collaborations. Thank you for visiting!
 
-## Projects:
+#### Projects:
  - [Google Analytics Capstone Project](https://github.com/lucareolon/bikeshare-project) 
 <!--
 **33lw/33lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
