@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-  Welcome to my GitHub profile! 
+Welcome to my GitHub profile! 
   
-  I'm a passionate data enthusiast and aspiring data analyst with a strong engineering background. Here, you'll find my projects showcasing expertise in data analysis, visualization, and problem-solving. I believe in collaboration and continuous learning. Feel free to explore my work and reach out for potential collaborations. Thank you for visiting!
+I am a Mechanical Engineer with a Master’s degree and expertise in manufacturing optimization, data analysis and engineering design. Throughout my career, I have utilized software like SolidWorks, Siemens NX, MATLAB, and R to drive the design, simulation, and analysis of mechanical systems that are both efficient and innovative. With experience in CNC machining, prototyping, and material science, I have focused on enhancing product quality, performance, and cost-effectiveness. I apply Lean Manufacturing strategies to continuously improve production processes and projects to promote sustainable business growth.
+
+I am seeking opportunities as a Mechanical Engineer, Product Design Engineer, or Project Engineer, where I can leverage my technical expertise, problem-solving skills, and international experience to drive innovation and efficiency. With a proven ability to collaborate in cross-functional teams and optimize engineering processes, I am committed to delivering high-quality solutions that align with business and industry objectives. Thank you for visiting!
 
 #### Projects:
  - [Google Analytics Capstone Project](https://github.com/lucareolon/bikeshare-project) 
